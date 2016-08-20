@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roadmap>
+	<heading>Ajax RoadMap</heading>
+	<items>
+		<item>create xhr object</item>
+		<item>handle onreadystatechange</item>
+		<item>open the request</item>
+		<item>send the request</item>
+	</items>
+</roadmap>
